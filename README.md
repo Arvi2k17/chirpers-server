@@ -1,2 +1,2 @@
 # chirpers-server
-A Server App using  node
+A Simple Server App with socket.io developed using Node
